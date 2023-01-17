@@ -1,7 +1,7 @@
 #include <iostream>
-#include "../LIBRARY/share.h"
-#include "../LIBRARY/math_functions.h"
-#include "../LIBRARY/array_functions.h"
+#include "share.h"
+#include "math_functions.h"
+#include "array_functions.h"
 using namespace std;
 int main() {
     string y;
