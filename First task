@@ -32,7 +32,7 @@ int Sqrt (int x){
     int i=0;
     int ans=0;
     while ((x>0)&&(i<=25)){
-        x-=a[i];
+        x=x-a[i];
         ans++;
         i++;
     }
